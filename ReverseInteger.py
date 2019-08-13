@@ -21,7 +21,3 @@ class Solution(object):
             return -rev
         else:
             return rev
-
-
-    print(sys.maxsize)
-    print(reverse("a", -1563847412))

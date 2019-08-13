@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f4e3670-e612-4f85-b7ab-95194e69dca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReverseInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseInteger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sqrt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sqrt.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,8 +41,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sqrt">
-    <configuration name="PalindromeNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MergeTwoBinaryTrees">
+    <configuration name="MergeTwoBinaryTrees" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PalindromeNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MergeTwoBinaryTrees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReverseInteger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="NRepeatedElementInSize2NArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReverseInteger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NRepeatedElementInSize2NArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sqrt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SelfDividingNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sqrt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SelfDividingNumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TwoSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SortArrayByParity" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +117,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TwoSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortArrayByParity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SquaresOfASortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCodeProblems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SquaresOfASortedArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,10 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Sqrt" />
-        <item itemvalue="Python.PalindromeNumber" />
-        <item itemvalue="Python.ReverseInteger" />
-        <item itemvalue="Python.TwoSum" />
+        <item itemvalue="Python.MergeTwoBinaryTrees" />
+        <item itemvalue="Python.SelfDividingNumbers" />
+        <item itemvalue="Python.SquaresOfASortedArray" />
+        <item itemvalue="Python.NRepeatedElementInSize2NArray" />
+        <item itemvalue="Python.SortArrayByParity" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +175,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
