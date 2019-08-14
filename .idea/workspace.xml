@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f4e3670-e612-4f85-b7ab-95194e69dca7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReverseInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReverseInteger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sqrt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sqrt.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
