@@ -21,7 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PCkW3l5ruVxXjGkc55OrMbS1Zs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
@@ -39,8 +41,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MergeTwoBinaryTrees">
-    <configuration name="MergeTwoBinaryTrees" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.NumberComplement">
+    <configuration name="NumberComplement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MergeTwoBinaryTrees.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumberComplement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NRepeatedElementInSize2NArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RemoveAllAdjacentDuplicatesInString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NRepeatedElementInSize2NArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RemoveAllAdjacentDuplicatesInString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SelfDividingNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ReverseLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SelfDividingNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReverseLinkedList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SortArrayByParity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ShortestDistanceToACharacter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SortArrayByParity.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShortestDistanceToACharacter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SquaresOfASortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SumOfEvenNumbersAfterQueries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeProblems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SquaresOfASortedArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SumOfEvenNumbersAfterQueries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MergeTwoBinaryTrees" />
-        <item itemvalue="Python.SelfDividingNumbers" />
-        <item itemvalue="Python.SquaresOfASortedArray" />
-        <item itemvalue="Python.NRepeatedElementInSize2NArray" />
-        <item itemvalue="Python.SortArrayByParity" />
+        <item itemvalue="Python.NumberComplement" />
+        <item itemvalue="Python.SumOfEvenNumbersAfterQueries" />
+        <item itemvalue="Python.RemoveAllAdjacentDuplicatesInString" />
+        <item itemvalue="Python.ShortestDistanceToACharacter" />
+        <item itemvalue="Python.ReverseLinkedList" />
       </list>
     </recent_temporary>
   </component>
