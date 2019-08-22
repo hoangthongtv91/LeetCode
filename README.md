@@ -1,1 +1,52 @@
 # LeetCodeProblems
+
+- Defanging an IP Address
+- Jewels and Stones
+- Range Sum of BST 
+- To Lower Case
+- Remove Outermost Parentheses
+- Flipping an Image
+- Sort Array By Parity
+- N-Repeated Element in Size 2N Array
+- Robot Return to Origin
+- Squares of a Sorted Array
+- Self Dividing Numbers
+- Merge Two Binary Trees
+- Peak Index in a Mountain Array
+- DI String Match
+- Array Partition I
+- Unique Email Addresses
+- Search in a Binary Search Tree
+- Height Checker
+- N-ary Tree Postorder Traversal
+- N-ary Tree Preorder Traversal
+- Sort Array By Parity II
+-	Univalued Binary Tree    		
+-	Fibonacci Number    		
+-	Relative Sort Array    		
+-	Maximum Depth of N-ary Tree    			
+-	Find Common Characters    			
+-	Occurrences After Bigram    		
+-	Reverse Words in a String III    		
+-	Middle of the Linked List    		
+-	Shortest Distance to a Character    	
+-	Reverse String    			
+-	Remove All Adjacent Duplicates In StringEasy	
+-	Keyboard Row    		
+-	Numbe Complement    		
+-	Sum of Even Numbers After Queries    	
+-	Toeplitz Matrix    		
+-	Last Stone Weight    	
+-	Maximum Depth of Binary Tree    		
+-	Uncommon Words from Two Sentences    	
+-	Single Number    		
+-	N-th Tribonacci Number  
+-	Fizz Buzz    		
+-	Reverse Linked List    	
+-	Roman to Integer    	
+-	Palindrome Number    	
+-	Two Sum
+-	Remove Duplicates from Sorted Array    	
+-	Sqrt(x)    		
+-	Reverse Integer 
+-	Reverse Words in a String
