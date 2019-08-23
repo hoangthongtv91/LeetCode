@@ -1,52 +1,52 @@
 # LeetCodeProblems
 
-- Defanging an IP Address
-- Jewels and Stones
-- Range Sum of BST 
-- To Lower Case
-- Remove Outermost Parentheses
-- Flipping an Image
-- Sort Array By Parity
-- N-Repeated Element in Size 2N Array
-- Robot Return to Origin
-- Squares of a Sorted Array
-- Self Dividing Numbers
-- Merge Two Binary Trees
-- Peak Index in a Mountain Array
-- DI String Match
-- Array Partition I
-- Unique Email Addresses
-- Search in a Binary Search Tree
-- Height Checker
-- N-ary Tree Postorder Traversal
-- N-ary Tree Preorder Traversal
-- Sort Array By Parity II
--	Univalued Binary Tree    		
--	Fibonacci Number    		
--	Relative Sort Array    		
--	Maximum Depth of N-ary Tree    			
--	Find Common Characters    			
--	Occurrences After Bigram    		
--	Reverse Words in a String III    		
--	Middle of the Linked List    		
--	Shortest Distance to a Character    	
--	Reverse String    			
--	Remove All Adjacent Duplicates In StringEasy	
--	Keyboard Row    		
--	Numbe Complement    		
--	Sum of Even Numbers After Queries    	
--	Toeplitz Matrix    		
--	Last Stone Weight    	
--	Maximum Depth of Binary Tree    		
--	Uncommon Words from Two Sentences    	
--	Single Number    		
--	N-th Tribonacci Number  
--	Fizz Buzz    		
--	Reverse Linked List    	
--	Roman to Integer    	
--	Palindrome Number    	
--	Two Sum
--	Remove Duplicates from Sorted Array    	
--	Sqrt(x)    		
--	Reverse Integer 
--	Reverse Words in a String
+- Defanging an IP Address (1108)	
+- Jewels and Stones (771)	
+- Range Sum of BST (938)	
+- To Lower Case (709)	
+- Remove Outermost Parentheses (1021)	
+- Flipping an Image (832)	
+- Sort Array By Parity (905)	
+- N-Repeated Element in Size 2N Array (961)	
+- Robot Return to Origin (657)	
+- Squares of a Sorted Array (977)	
+- Self Dividing Numbers (728)	
+- Merge Two Binary Trees (617)	
+- Peak Index in a Mountain Array (852)	
+- DI String Match (942)	
+- Array Partition I (561)	
+- Unique Email Addresses (929)	
+- Search in a Binary Search Tree (700)	
+- Height Checker (1051)	
+- N-ary Tree Postorder Traversal (590)	
+- N-ary Tree Preorder Traversal (589)	
+- Sort Array By Parity II (922)	
+- Univalued Binary Tree (965)	
+- Fibonacci Number (509)	
+- Relative Sort Array (1122)	
+- Maximum Depth of N-ary Tree (559)	
+- Find Common Characters (1002)	
+- Occurrences After Bigram (1078)	
+- Reverse Words in a String III (557)	
+- Middle of the Linked List (876)	
+- Shortest Distance to a Character (821)	
+- Reverse String (344)	
+- Remove All Adjacent Duplicates In StringEasy (1047)	
+- Keyboard Row (500)	
+- Numbe Complement (476)	
+- Sum of Even Numbers After Queries (985)	
+- Toeplitz Matrix (766)	
+- Last Stone Weight (1046)	
+- Maximum Depth of Binary Tree (104)	
+- Uncommon Words from Two Sentences (884)	
+- Single Number (136)	
+- N-th Tribonacci Number (1137)	
+- Fizz Buzz (412)	
+- Reverse Linked List (206)	
+- Roman to Integer (13)	
+- Palindrome Number (9)	
+- Two Sum (1)	
+- Remove Duplicates from Sorted Array (26)	
+- Sqrt(x) (69)	
+- Reverse Integer (7)	
+- Reverse Words in a String (151)
